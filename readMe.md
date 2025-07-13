@@ -4,7 +4,7 @@
 
 ## ✨ Features
 
-- Clean, mobile-friendly UI
+- Clean UI
 - Product catalog with filters
 - Cart & order simulation
 - SkinTest quiz for skincare suggestions
